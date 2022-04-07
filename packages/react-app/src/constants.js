@@ -2,7 +2,7 @@
 export const NFT_STORAGE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweEE2QzJmZTc3NmEyYTQxNTQ5NmJiMDc0ZWMxOEUwMzNENWMxQ2I3OTkiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY0ODQ2NjUxNjYxOCwibmFtZSI6Ik5GVCBNaW50ZXIifQ.3uNMS73x1-ExRW6LUBmDoknNYzCVE1vOkt_SGUbUBVw";
 
 // Infura project ID. If you're building a real app based on this, please replace with your own from https://infura.io/dashboard/ethereum
-export const INFURA_ID = "69f75bb89ba74822b512b464ef1495c9";
+export const INFURA_ID = "c92f36ef60124bc5a0352fd95f283610";
 
 // Key for Etherscan.io. If you're building a real app based on this, please replace with your own from https://etherscan.io/myapikey
 export const ETHERSCAN_KEY = "6EAGC2DEG6PP3M1GP1I86QJPQAUE4ESW1W";

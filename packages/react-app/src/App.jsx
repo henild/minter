@@ -17,7 +17,7 @@ import {
   useUserProvider,
 } from "./hooks";
 
-const targetNetwork = NETWORKS.rinkeby;
+const targetNetwork = NETWORKS.matic
 
 const DEBUG = true;
 

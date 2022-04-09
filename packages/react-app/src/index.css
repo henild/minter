@@ -3,6 +3,12 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+#root > div > div:nth-child(3) > div > div {
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
